@@ -1,14 +1,14 @@
 <div align="center">
-  <a href="https://github.com/NxdeCoder">
+ <!-- <a href="https://github.com/NxdeCoder">
     <img src="https://avatars.githubusercontent.com/u/117240020?v=4" alt="Logo" width="80" height="80">
-  </a>
+  </a> -->
 
-  <h3>각자 공부하고 기록하는 공간입니다</h3>
-
-  <br/><br/>
+  <img src="https://user-images.githubusercontent.com/80824750/200108149-80287c22-d227-4b20-b080-707fdab51c47.gif">   <br />
+  
+  ♥️ <br /><br />
+  각자 공부하고 기록하는 공간
 
   <h4>Member</h4>
-
   <table>
     <tr>
       <td align="center">
